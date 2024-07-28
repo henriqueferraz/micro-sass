@@ -6,14 +6,13 @@ import {
 } from "@/components/dashboard/page";
 
 export default function Page() {
-
     return (
         <DashboardPage>
             <DashboardPageHeader>
-                <DashboardPageHeaderTitle>Tarefas</DashboardPageHeaderTitle>
+                <DashboardPageHeaderTitle>Configurações</DashboardPageHeaderTitle>
             </DashboardPageHeader>
             <DashboardPageMain>
-                <h1>Tarefas</h1>
+                <h1>Configurações</h1>
             </DashboardPageMain>
         </DashboardPage>
     )
